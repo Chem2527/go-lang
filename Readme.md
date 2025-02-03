@@ -1,3 +1,4 @@
+## 1. Simple Go Program to Print Hello Message
 ```bash
 package main // Defines the package name, which in this case is 'main' (the entry point of the Go program)
 
@@ -11,6 +12,7 @@ func main() { // The main function is the entry point of the Go program. It gets
 
 }
 ```
+## 2. Print Arithmetic Expression Result
 ```bash
 // Declare the main package. This is the entry point of the Go program where it starts executing.
 package main
